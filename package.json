@@ -24,5 +24,8 @@
     "method-override": "^2.3.9",
     "mysql": "^2.14.1",
     "sequelize": "^4.4.2"
+  },
+  "scripts": {
+  "start": "node server.js"
   }
 }
