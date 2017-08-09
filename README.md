@@ -1,2 +1,2 @@
 # burger-bank-mysql
-This 
+This is "EAT-DA-BURGER" renamed "BURGER BANK".
